@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.bg-orange {
+  background-color: orange;
+}
